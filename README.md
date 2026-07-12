@@ -43,6 +43,12 @@ This project presents an interactive Power BI dashboard built to analyze Superst
 
 ---
 
+## 📷 Dashboard Preview
+
+![Dashboard](Sales.png)
+
+---
+
 ## 👨‍💻 Author
 
 **Ragab Mostafa**
